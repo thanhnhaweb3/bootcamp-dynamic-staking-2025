@@ -96,8 +96,8 @@ dynamic-staking-dapp/
 ### 1. ✅ Cài đặt thư viện cần thiết
 
 ```bash
-npx create-next-app@latest dynamic-staking-dapp --typescript --app
-cd dynamic-staking-dapp
+npx create-next-app@latest bootcamp-dynamic-staking-2025 --typescript --app
+cd bootcamp-dynamic-staking-2025
 
 npm install viem wagmi ethers @rainbow-me/rainbowkit
 ```
