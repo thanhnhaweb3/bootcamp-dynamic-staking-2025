@@ -4,7 +4,7 @@
 
 **DynamicStaking DApp** là một nền tảng phi tập trung (DApp) giúp người dùng **stake token một cách an toàn, minh bạch và linh hoạt** trên mạng blockchain. Ứng dụng này được phát triển với sự hỗ trợ của **ChatGPT phiên bản 4o**, **trình soạn thảo thông minh Cursor**, cùng những câu lệnh đơn giản nhưng hiệu quả. Điều này cho thấy rằng bất kỳ ai cũng có thể tạo ra những ứng dụng tuyệt vời của riêng mình với sự trợ giúp từ công cụ AI và công nghệ hiện đại.
 
-DynamicStaking DApp ứng dụng những công nghệ tiên tiến từ **Ethereum Virtual Machine (EVM)**, cùng với các thư viện Web3 mới nhất như **wagmi**, **viem**, và **Next.js**, nhằm mang lại trải nghiệm người dùng mượt mà, bảo mật và dễ tiếp cận.
+DynamicStaking DApp ứng dụng những công nghệ tiên tiến từ **Ethereum Virtual Machine (EVM)**, cùng với các thư viện Web3 mới nhất như **wagmi**, **viem**, **Next.js** và thư viện **Data Feed của Chainlink**  nhằm mang lại trải nghiệm người dùng mượt mà, bảo mật và dễ tiếp cận.
 
 ### 🔧 Các tính năng nổi bật:
 
